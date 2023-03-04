@@ -1,4 +1,4 @@
-class Engine {
+export default class Engine {
     maxPower: number = 100
     minPower: number = -20
     currentPower: number = 0
